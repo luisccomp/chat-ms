@@ -1,0 +1,7 @@
+{
+  "name": "chat-ms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luis Carlos Silva Junior <luisccomp@gmail.com>",
+  "license": "MIT"
+}
