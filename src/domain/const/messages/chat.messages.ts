@@ -1,0 +1,1 @@
+export const CHAT_SESSION_TERMINATED = 'Current chat session was already terminated'
